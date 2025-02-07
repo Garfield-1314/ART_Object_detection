@@ -1,0 +1,4 @@
+D:\yolo3_smartcar\car_data\car1/JPEGImages/od (1708).jpg$116,64,158,90,0$143,31,159,46,0$20,25,43,35,0
+D:\yolo3_smartcar\car_data\car1/JPEGImages/od (1722).jpg$66,56,103,75,0$101,21,118,30,0$56,14,70,20,0$10,26,25,38,0
+D:\yolo3_smartcar\car_data\car1/JPEGImages/od (1731).jpg$119,50,148,68,0$138,22,152,33,0$52,23,68,32,0$94,12,106,20,0
+D:\yolo3_smartcar\car_data\car1/JPEGImages/od (1732).jpg$124,49,151,66,0$55,23,72,32,0$140,23,157,32,0$97,12,111,20,0
